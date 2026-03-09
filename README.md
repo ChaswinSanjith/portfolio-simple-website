@@ -1,6 +1,6 @@
 # My Portfolio Website
 
-This is my first personal portfolio website created using **HTML and CSS**. The project is a simple multi-page website that introduces me and provides a way to get in touch.
+This is my first portfolio website created using **HTML and CSS**. The project is a simple multi-page website that introduces me and provides a way to get in touch.
 
 The portfolio currently includes two pages:
 
